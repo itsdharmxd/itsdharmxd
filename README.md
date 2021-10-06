@@ -1,7 +1,7 @@
 <h1 align="center">Heya!🤗, It's me Dharmesh</h1>
 <h3 align="center">A lively learner, who is keen to to explore and experiment new stuffs.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsdharmxd&label=Profile%20views&color=0e75b6&style=flat" alt="itsdharmxd" /> </p>
 
